@@ -15,7 +15,7 @@ Implementação da Disciplina de Estatística Aplicada
 
 Ainda sem uma interface gráfica (planos para a última etapa do projeto) os cálculos são executados em programa feito em Python:snake:.
 
-![img1](C:\Users\brenn\Downloads\img1.jpeg)
+![img1](https://github.com/brennorichard/Implementacao-2021-2/blob/main/assets/img1.jpeg)
 
 
 
