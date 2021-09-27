@@ -20,3 +20,9 @@ Ainda sem uma interface gráfica (planos para a última etapa do projeto) os cá
 
 
 O próximo passo é a criação de uma interface gráfica e a implementação de novos tipos de cálculos.
+
+## Integrantes do grupo:
+
+- Brenno Richard Rabelo de Almeida | https://github.com/brennorichard
+
+- Cristian Matheus Teixeira Barbosa | https://github.com/CristianMateusTB
