@@ -23,6 +23,6 @@ O próximo passo é a criação de uma interface gráfica e a implementação de
 
 ## Integrantes do grupo:
 
-- Brenno Richard Rabelo de Almeida | https://github.com/brennorichard
+- Brenno Richard Rabelo de Almeida | https://github.com/brennorichard | 4°ADS B
 
-- Cristian Matheus Teixeira Barbosa | https://github.com/CristianMateusTB
+- Cristian Matheus Teixeira Barbosa | https://github.com/CristianMateusTB | 4°ADS B
