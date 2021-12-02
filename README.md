@@ -15,10 +15,8 @@ Ainda sem uma interface gráfica (possibilidade para a última etapa do projeto)
 ![img1](https://github.com/brennorichard/Implementacao-2021-2/blob/main/assets/img1.jpeg)
 
 ## Na segunda etapa batizamos nosso script de: DogCalculator 🐶
-<div style="text-align:center">
-  <img src="https://github.com/brennorichard/Implementacao-2021-2/blob/main/assets/DOG.png"/>
-</div>
-/*![DOG.png](https://github.com/brennorichard/Implementacao-2021-2/blob/main/assets/DOG.png)*/
+
+![DOG.png](https://github.com/brennorichard/Implementacao-2021-2/blob/main/assets/DOG.png)
 
 Infelizmente não foi possível a implementaçãoo de uma interface gráfica, mas corrigimos algumas partes do código e adicionamos novas funcionalidades no projeto. São elas:
 
