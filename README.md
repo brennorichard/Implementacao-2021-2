@@ -37,6 +37,8 @@ Infelizmente não foi possível a implementaçãoo de uma interface gráfica, ma
 
 ✔️ Amplitude e Desvio
 
+<br />
+
 <a href="url" target="_blank">Clique aqui para conferir o código da segunda etapa 🐍</a>
 
 <p align="center"> 
