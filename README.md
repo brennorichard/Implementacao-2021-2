@@ -2,7 +2,6 @@
 Implementação da Disciplina de Estatística Aplicada
 
 
-
 ## Na primeira etapa da Implementação adicionamos os cálculos de:
 
 - Tendência Central 
