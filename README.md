@@ -1,7 +1,7 @@
 # Implementação 2021-2 :rocket:
 Implementação da Disciplina de Estatística Aplicada
 
-<p> </p>
+<p> a </p>
 <p> </p>
 
 ## Na primeira etapa da Implementação adicionamos os cálculos de:
