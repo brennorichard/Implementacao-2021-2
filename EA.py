@@ -71,7 +71,7 @@ def med_disp(dados):
     #amplitude
     ampmaior=max(L1)
     ampmenor=min(L1)
-    print(f'O maior valor é {ampmaior} e o menor valor é de {ampmenor} e a amplitude é de {ampmaior-ampmenor}')
+    print(f'\nO maior valor é {ampmaior} e o menor valor é de {ampmenor} e a amplitude é de {ampmaior-ampmenor}\n')
     #desvio
     desvio=0
     totnot=sum(L1)
@@ -89,7 +89,11 @@ def med_disp(dados):
         cont1+=1
         variavel= variavel+var_lis
     resultvar = variavel/tamanho
-    print(resultvar)
+    print(f'\nVariancia = {resultvar}\n')
+
+    #desvio padrao
+    desviopadrao=resultvar**(1/2)
+    print(f'desvio padrão = {desviopadrao}\n')
 
 
 
@@ -101,7 +105,7 @@ print("====DOG CALCULATOR====")
 cond=True
 while cond == True:
     print('-'*25)
-    print('|opções de calculo:     |\n|(1)tendencia central   |\n|(2)media ponderada     |\n|(3)media geometrica    |\n|(4)medidas de dispersão|    |\n|(5)Amplitude e desvio|')
+    print('|opções de calculo:     |\n|(1)tendencia central   |\n|(2)media ponderada     |\n|(3)media geometrica    |\n|(4)medidas de dispersão|')
     print('-'*25)
     op = float(input('\ndigite uma opção de calculo: '))
     while op>4 or op<1:
