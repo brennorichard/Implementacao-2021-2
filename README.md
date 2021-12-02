@@ -15,7 +15,9 @@
 
 Ainda sem uma interface gráfica (possibilidade para a última etapa do projeto) os cálculos são executados em programa feito em Python:snake:.
 
-![img1](https://github.com/brennorichard/Implementacao-2021-2/blob/main/assets/img1.jpeg)
+<p align="center"> 
+<img src="https://github.com/brennorichard/Implementacao-2021-2/blob/main/assets/img1.jpeg">
+</p>
 
 <br />
 
