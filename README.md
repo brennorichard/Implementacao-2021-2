@@ -13,7 +13,7 @@ Implementação da Disciplina de Estatística Aplicada
 
 ## Na segunda etapa batizamos nosso script de: DogCalculator 🐶
 
-![]()
+![DOG.png](https://github.com/brennorichard/Implementacao-2021-2/blob/main/assets/DOG.png)
 
 Ainda sem uma interface gráfica (planos para a última etapa do projeto) os cálculos são executados em programa feito em Python:snake:.
 
