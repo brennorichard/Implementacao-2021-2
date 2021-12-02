@@ -101,7 +101,7 @@ print("====DOG CALCULATOR====")
 cond=True
 while cond == True:
     print('-'*25)
-    print('|opções de calculo:     |\n|(1)tendencia central   |\n|(2)media ponderada     |\n|(3)media geometrica    |\n|(4)medidas de dispersão|')
+    print('|opções de calculo:     |\n|(1)tendencia central   |\n|(2)media ponderada     |\n|(3)media geometrica    |\n|(4)medidas de dispersão|    |\n|(5)Amplitude e desvio|')
     print('-'*25)
     op = float(input('\ndigite uma opção de calculo: '))
     while op>4 or op<1:
