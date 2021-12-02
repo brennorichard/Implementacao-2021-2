@@ -33,9 +33,11 @@ Ainda sem uma interface gráfica (possibilidade para a última etapa do projeto)
 
 Infelizmente não foi possível a implementaçãoo de uma interface gráfica, mas corrigimos algumas partes do código e adicionamos novas funcionalidades no projeto. São elas:
 
-✔️ Medidade de dispersão
+✔️ Medida de dispersão
 
 ✔️ Amplitude e Desvio
+
+✔️ Variância
 
 <br />
 
