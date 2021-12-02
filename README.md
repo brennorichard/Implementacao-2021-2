@@ -6,7 +6,9 @@
 <h2 align=center>Na primeira etapa da Implementação adicionamos os cálculos de:</h2>
 
 [x] Tendência Central 
+
 [x] Média Ponderada
+
 [x] Média Geométrica.
 
 <br />
