@@ -39,7 +39,7 @@ Infelizmente não foi possível a implementaçãoo de uma interface gráfica, ma
 
 <br />
 
-<a href="url" target="_blank">Clique aqui para conferir o código da segunda etapa 🐍</a>
+<a href="https://github.com/brennorichard/Implementacao-2021-2/blob/main/EA.py" target="_blank">Clique aqui para conferir o código da segunda etapa 🐍</a>
 
 <p align="center"> 
 <img src="">
