@@ -1,4 +1,4 @@
-# Implementação 2021-2 :rocket:
+<p align=center>Implementação 2021-2 :rocket:</p>
 Implementação da Disciplina de Estatística Aplicada
 
 ## Na primeira etapa da Implementação adicionamos os cálculos de:
