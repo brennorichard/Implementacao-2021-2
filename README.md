@@ -1,11 +1,6 @@
 # Implementação 2021-2 :rocket:
 Implementação da Disciplina de Estatística Aplicada
 
-<div>
-  <p></p>
-</div>
-
-
 ## Na primeira etapa da Implementação adicionamos os cálculos de:
 
 - Tendência Central 
