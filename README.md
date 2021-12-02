@@ -11,7 +11,9 @@ Implementação da Disciplina de Estatística Aplicada
 
 - Média Geométrica.
 
+## Na segunda etapa batizamos nosso script de: DogCalculator 🐶
 
+![]()
 
 Ainda sem uma interface gráfica (planos para a última etapa do projeto) os cálculos são executados em programa feito em Python:snake:.
 
