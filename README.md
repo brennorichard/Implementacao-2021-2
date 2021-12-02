@@ -21,9 +21,10 @@ Ainda sem uma interface gráfica (possibilidade para a última etapa do projeto)
 
 <h2 align=center>Na segunda etapa batizamos nosso script de: DogCalculator 🐶</h2> 
 
- <div style="align:center">
-   <img src="https://github.com/brennorichard/Implementacao-2021-2/blob/main/assets/DOG.png"/>
-  </div>
+
+<p align="center">
+  <img scr="https://github.com/brennorichard/Implementacao-2021-2/blob/main/assets/DOG.png"/>
+</p>
 
 <br />
 
