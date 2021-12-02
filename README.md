@@ -5,11 +5,11 @@
 
 <h2 align=center>Na primeira etapa da Implementação adicionamos os cálculos de:</h2>
 
-[x] Tendência Central 
+✔️ Tendência Central 
 
-[x] Média Ponderada
+✔️ Média Ponderada
 
-[x] Média Geométrica.
+✔️ Média Geométrica.
 
 <br />
 
@@ -20,6 +20,11 @@ Ainda sem uma interface gráfica (possibilidade para a última etapa do projeto)
 <br />
 
 <h2 align=center>Na segunda etapa batizamos nosso script de: DogCalculator 🐶</h2> 
+
+<div>
+ <div style="text-align:center">
+   <img src="https://github.com/brennorichard/Implementacao-2021-2/blob/main/assets/DOG.png"/>
+  </div>
 
 ![DOG.png](https://github.com/brennorichard/Implementacao-2021-2/blob/main/assets/DOG.png)
 
