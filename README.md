@@ -1,5 +1,5 @@
 <h1 align=center>Implementação 2021-2 :rocket:</h1>
-Implementação da Disciplina de Estatística Aplicada
+<p align=center>Implementação da Disciplina de Estatística Aplicada</p>
 
 ## Na primeira etapa da Implementação adicionamos os cálculos de:
 
