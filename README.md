@@ -31,7 +31,7 @@ Ainda sem uma interface gráfica (possibilidade para a última etapa do projeto)
 
 <br />
 
-Infelizmente não foi possível a implementaçãoo de uma interface gráfica, mas corrigimos algumas partes do código e adicionamos novas funcionalidades no projeto. São elas:
+Infelizmente não foi possível a implementação de uma interface gráfica, mas corrigimos algumas partes do código e adicionamos novas funcionalidades no projeto. São elas:
 
 ✔️ Medida de dispersão
 
