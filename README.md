@@ -24,7 +24,6 @@ Ainda sem uma interface gráfica (possibilidade para a última etapa do projeto)
 <p align="center"> 
 <img src="https://github.com/brennorichard/Implementacao-2021-2/blob/main/assets/DOG.png">
 </p>
-![DOG.png](https://github.com/brennorichard/Implementacao-2021-2/blob/main/assets/DOG.png=centerme)
 
 <br />
 
