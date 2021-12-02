@@ -11,19 +11,24 @@ Implementação da Disciplina de Estatística Aplicada
 
 - Média Geométrica.
 
+Ainda sem uma interface gráfica (possibilidade para a última etapa do projeto) os cálculos são executados em programa feito em Python:snake:.
+
+![img1](https://github.com/brennorichard/Implementacao-2021-2/blob/main/assets/img1.jpeg)
+
 ## Na segunda etapa batizamos nosso script de: DogCalculator 🐶
 
 ![DOG.png](https://github.com/brennorichard/Implementacao-2021-2/blob/main/assets/DOG.png)
 
-Ainda sem uma interface gráfica (planos para a última etapa do projeto) os cálculos são executados em programa feito em Python:snake:.
+Infelizmente não foi possível a implementaçãoo de uma interface gráfica, mas corrigimos parte do código e adicionamos novas funcionalidades no projeto. São elas:
 
-![img1](https://github.com/brennorichard/Implementacao-2021-2/blob/main/assets/img1.jpeg)
+-
 
+-
 
-
-O próximo passo é a criação de uma interface gráfica e a implementação de novos tipos de cálculos.
 
 ## Integrantes do grupo:
+
+- Anna Carolina de Oliveira Vale Mendes | https://github.com/AnnaCMendes | 4°ADS B
 
 - Brenno Richard Rabelo de Almeida | https://github.com/brennorichard | 4°ADS B
 
