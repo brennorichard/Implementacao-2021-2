@@ -42,7 +42,7 @@ Infelizmente não foi possível a implementaçãoo de uma interface gráfica, ma
 <a href="https://github.com/brennorichard/Implementacao-2021-2/blob/main/EA.py" target="_blank">Clique aqui para conferir o código da segunda etapa 🐍</a>
 
 <p align="center"> 
-<img src="">
+<img src="https://github.com/brennorichard/Implementacao-2021-2/blob/main/assets/newdog.jpeg">
 </p>
 
 <br />
