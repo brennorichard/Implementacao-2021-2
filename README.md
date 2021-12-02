@@ -1,4 +1,4 @@
-<h1 align=center>Implementação 2021-2 :rocket:</h1>
+<h1 align=center>:rocket: Implementação 2021-2 :rocket:</h1>
 <p align=center>Implementação da Disciplina de Estatística Aplicada</p>
 
 <br />
